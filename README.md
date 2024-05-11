@@ -1,0 +1,2 @@
+# UTS-PrakSismul
+Aplikasi Kompresi
